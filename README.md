@@ -7,7 +7,7 @@ Game developed by DEXTERS lab.
 ## Cite
 If you use this resource or reference our paper in your work please cite this publication as:
 ```
-@inproceedings{10.1145/3364641.3364662,
+@inproceedings{risking2019santos,
 author = {Santos, Sebasti\~{a}o and Carvalho, Fl\'{a}via and Costa, Yandson and Viana, Davi and Rivero, Luis},
 title = {Risking: A Game for Teaching Risk Management in Software Projects},
 year = {2019},
