@@ -5,7 +5,7 @@ Website made to publish Arriscando - A Game for Teaching Risk Management in Soft
 Game developed by DEXTERS lab.
 
 ## Cite
-If you use this resource or reference our paper in your work please cite this publication as:
+If you downloaded the resources or want to reference our paper in your work please cite this publication as:
 ```
 @inproceedings{risking2019santos,
 author = {Santos, Sebasti\~{a}o and Carvalho, Fl\'{a}via and Costa, Yandson and Viana, Davi and Rivero, Luis},
@@ -23,6 +23,4 @@ keywords = {MEEGA+, Risk Management, Serious Games, Focus Group},
 location = {Fortaleza, Brazil},
 series = {SBQS’19}
 }
-  
-
 ```
