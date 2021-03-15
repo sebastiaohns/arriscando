@@ -26,4 +26,4 @@ Jogo desenvolvido pelo laboratório DEXTERS - UFMA.
 
 ### Versões do README
 
-[Portugês](README.md)  |  [English](./README-EN.md)
+[Portugês](README.md)  |  [English](./README-en.md)
